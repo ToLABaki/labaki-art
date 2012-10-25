@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="flyer-outside-en.svg"
+   sodipodi:docname="flyer-outside-ell.svg"
    inkscape:export-filename="/home/sque/Documents/LABaki Flyer/SVG/flyer-outside-v0.11.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -2516,9 +2516,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="742.97568"
-     inkscape:cy="510.9988"
+     inkscape:zoom="1"
+     inkscape:cx="683.60864"
+     inkscape:cy="447.09545"
      inkscape:document-units="mm"
      inkscape:current-layer="g4850"
      showgrid="false"
@@ -2687,15 +2687,20 @@
            y="879.41772"
            x="428.16653"
            id="tspan3331"
-           sodipodi:role="line">Do you have a great idea? </tspan><tspan
+           sodipodi:role="line">Έχεις μία ωραία ιδέα?</tspan><tspan
            style="font-size:17.90289879px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Italic"
            id="tspan3333"
            y="901.79633"
            x="428.16653"
-           sodipodi:role="line">Give it a try! Make it real!</tspan><tspan
+           sodipodi:role="line">Προσπάθησέ το!</tspan><tspan
+           style="font-size:17.90289879px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Italic"
+           y="924.17499"
+           x="428.16653"
+           sodipodi:role="line"
+           id="tspan3800">Πραγματοποίησε την!</tspan><tspan
            style="font-size:17.90289879px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Italic"
            id="tspan3335"
-           y="924.17499"
+           y="946.55359"
            x="428.16653"
            sodipodi:role="line" /></text>
       <g
@@ -2768,24 +2773,40 @@
          id="flowRoot5601"
          xml:space="preserve"><flowRegion
            id="flowRegion5603"><rect
-             style="font-size:16px;text-align:justify;text-anchor:start"
+             style="font-size:16px;text-align:justify;text-anchor:start;word-spacing:0px"
              y="147.77391"
              x="405.60748"
              height="164.48599"
              width="302.80374"
              id="rect5605" /></flowRegion><flowPara
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
-           id="flowPara5607">ΤοLABάκι is a <flowSpan
-   id="flowSpan6059"
-   style="font-weight:bold;text-align:justify;text-anchor:start">free</flowSpan>, <flowSpan
-   id="flowSpan6061"
-   style="font-weight:bold;text-align:justify;text-anchor:start">open </flowSpan>space for everyone to <flowSpan
-   id="flowSpan6063"
-   style="font-weight:bold;text-align:justify;text-anchor:start">share</flowSpan> ideas, experience, <flowSpan
-   id="flowSpan6065"
-   style="font-weight:bold;text-align:justify;text-anchor:start">passion</flowSpan>, tools, and more. At τοLABάκι  you can find enthusiastic people building and producing all sorts of things - &quot;<flowSpan
-   id="flowSpan6071"
-   style="font-weight:bold;text-align:justify;text-anchor:start">Hacks</flowSpan>&quot;. There is no membership or registration, no central authority or regulation. ΤοLABάκι may be a different thing for different people.</flowPara></flowRoot>      <g
+           style="font-size:15.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:114.99999761999998782%;text-anchor:start;font-family:Advent Pro;-inkscape-font-specification:Advent Pro;word-spacing:0px"
+           id="flowPara5607"><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3592">ΤοLABάκι είναι ένας </flowSpan><flowSpan
+   style="font-weight:bold;line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3570">ελεύθερος</flowSpan><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3594">, </flowSpan><flowSpan
+   style="font-weight:bold;line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3572">ανοιχτός <flowSpan
+   style="font-weight:normal;font-size:15.50000000000000000px;word-spacing:0px"
+   id="flowSpan3798">χώρος</flowSpan></flowSpan><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3596"> για να </flowSpan><flowSpan
+   style="font-weight:bold;line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3574">μοιραστεί</flowSpan><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3598"> ο καθένας τις ιδέες του την εμπειρία, το </flowSpan><flowSpan
+   style="font-weight:bold;line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3576">πάθος</flowSpan><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3600">, τα εργαλεία και πολλά άλλα. Στο LABάκι μπορείς να βρεις ενθουσιώδεις ανθρώπους κατασκευάζοντας και παράγοντας πολλά πράματα - &quot;</flowSpan><flowSpan
+   style="font-weight:bold;line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3578">Hacks</flowSpan><flowSpan
+   style="line-height:112.99999952000000292%;word-spacing:0px;font-size:15.50000000000000000px"
+   id="flowSpan3602">&quot;. Δεν υπάρχουν μέλη, συνδρομή, κεντρική διαχείριση ή κανονισμοί. ΤοLABάκι μπορεί να </flowSpan>είναι διαφορετικό πράγμα για διαφορετικούς ανθρώπους.</flowPara><flowPara
+           style="font-size:15.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:114.99999761999998782%;text-anchor:start;font-family:Advent Pro;-inkscape-font-specification:Advent Pro;word-spacing:0px"
+           id="flowPara3568" /></flowRoot>      <g
          transform="translate(-152.66815,-215.36677)"
          id="g6087">
         <text
@@ -3251,14 +3272,13 @@
         </g>
       </g>
       <g
-         transform="translate(-4.7627395e-4,0.33030025)"
          id="g3624">
         <g
-           id="g5569-8"
+           id="g5569"
            transform="translate(-1.3216949,9.2518644)">
           <text
              sodipodi:linespacing="125%"
-             id="text5685-2"
+             id="text5685"
              y="645.78046"
              x="568.45062"
              style="font-size:61.80810165px;font-style:normal;font-weight:normal;line-height:125%;fill:#555753;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -3266,7 +3286,7 @@
                style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Neon 80s;-inkscape-font-specification:Neon 80s Bold"
                y="645.78046"
                x="568.45062"
-               id="tspan5687-5"
+               id="tspan5687"
                sodipodi:role="line">hackerspace</tspan></text>
         </g>
         <g
