@@ -15,7 +15,7 @@
    id="svg3807"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="A4_2xinside_ell.svg">
+   sodipodi:docname="A4_2xoutside_ell.svg">
   <defs
      id="defs3809">
     <linearGradient
@@ -217,11 +217,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="401.77863"
-     inkscape:cy="407.928"
+     inkscape:zoom="0.67185989"
+     inkscape:cx="419.87664"
+     inkscape:cy="788.05626"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3893"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="4"
      fit-margin-left="4"
@@ -230,10 +230,10 @@
      units="mm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="998"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="22"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -247,6 +247,10 @@
        orientation="0,1"
        position="-73.214286,526.42857"
        id="guide5406" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="12.857143,558.82425"
+       id="guide3282" />
   </sodipodi:namedview>
   <metadata
      id="metadata3812">
@@ -256,27 +260,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Printable Area"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+       d="M 0,-0.01281738 0,1052.3622 l 744.09376,0 0,-1052.37501738 -744.09376,0 z m 14.1875,14.18750038 715.71876,0 0,1024.000017 -715.71876,0 0,-1024.000017 z"
+       id="rect4130"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1.1956816e-4)">
+     transform="translate(0,1.1956816e-4)"
+     style="display:inline">
     <g
        id="g5687"
        transform="translate(-560,-100.85714)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect4844"
-         width="744.09418"
-         height="524.4104"
-         x="560.47821"
-         y="101.00822"
-         rx="0"
-         ry="0" />
       <rect
          style="color:#000000;fill:#f7f7e3;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5609"
@@ -509,7 +516,7 @@
                id="g4170">
               <polygon
                  style="fill:#b3b3b3;stroke:#414042;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-                 points="78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 "
+                 points="91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 "
                  id="polygon4661-5"
                  transform="matrix(1.0281496,0,0,0.99873615,-2.5809794,0.08135425)" />
               <line
@@ -972,7 +979,7 @@
           </g>
           <path
              transform="translate(0,1.0112226)"
-             d="m 91.515649,93.944359 c 0,0.781876 -0.633836,1.415711 -1.415712,1.415711 -0.781876,0 -1.415711,-0.633835 -1.415711,-1.415711 0,-0.781876 0.633835,-1.415712 1.415711,-1.415712 0.781876,0 1.415712,0.633836 1.415712,1.415712 z"
+             d="m 91.515649,93.944359 a 1.4157116,1.4157116 0 1 1 -2.831423,0 1.4157116,1.4157116 0 1 1 2.831423,0 z"
              sodipodi:ry="1.4157116"
              sodipodi:rx="1.4157116"
              sodipodi:cy="93.944359"
@@ -986,15 +993,6 @@
     <g
        id="g5687-7"
        transform="matrix(-1,0,0,-1,1306.5714,1156.1527)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect4844-7"
-         width="744.09418"
-         height="524.4104"
-         x="560.47821"
-         y="101.00822"
-         rx="0"
-         ry="0" />
       <rect
          style="color:#000000;fill:#f7f7e3;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5609-7"
@@ -1227,7 +1225,7 @@
                id="g4170-9">
               <polygon
                  style="fill:#b3b3b3;stroke:#414042;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-                 points="87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 90.146,11.582 88.631,11.582 "
+                 points="79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 "
                  id="polygon4661-5-7"
                  transform="matrix(1.0281496,0,0,0.99873615,-2.5809794,0.08135425)" />
               <line
@@ -1690,7 +1688,7 @@
           </g>
           <path
              transform="translate(0,1.0112226)"
-             d="m 91.515649,93.944359 c 0,0.781876 -0.633836,1.415711 -1.415712,1.415711 -0.781876,0 -1.415711,-0.633835 -1.415711,-1.415711 0,-0.781876 0.633835,-1.415712 1.415711,-1.415712 0.781876,0 1.415712,0.633836 1.415712,1.415712 z"
+             d="m 91.515649,93.944359 a 1.4157116,1.4157116 0 1 1 -2.831423,0 1.4157116,1.4157116 0 1 1 2.831423,0 z"
              sodipodi:ry="1.4157116"
              sodipodi:rx="1.4157116"
              sodipodi:cy="93.944359"
