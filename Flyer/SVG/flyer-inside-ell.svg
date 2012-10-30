@@ -3182,24 +3182,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78014964"
-     inkscape:cx="444.2984"
-     inkscape:cy="236.36322"
+     inkscape:zoom="1.5602993"
+     inkscape:cx="494.54602"
+     inkscape:cy="547.72518"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3893"
+     inkscape:current-layer="g5051"
      showgrid="false"
      gridtolerance="5"
      objecttolerance="10"
      guidetolerance="15"
-     inkscape:window-width="1280"
-     inkscape:window-height="974"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      units="mm"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        orientation="1,0"
        position="372.04724,0"
@@ -3218,7 +3219,7 @@
        id="guide5906" />
     <sodipodi:guide
        orientation="0,1"
-       position="0,524.41016"
+       position="178.13377,541.21489"
        id="guide5047" />
     <sodipodi:guide
        orientation="0,1"
@@ -3468,7 +3469,7 @@
            x="23.999947"
            y="971.46936"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
-           id="tspan8053">Τα project σου!</tspan><tspan
+           id="tspan8053">Your project here!</tspan><tspan
            sodipodi:role="line"
            x="23.999947"
            y="987.71936"
@@ -3499,7 +3500,7 @@
            y="857.3869"
            x="397.36734"
            id="tspan9682"
-           sodipodi:role="line">Πού είναι τοLABάκι?</tspan></text>
+           sodipodi:role="line">Πού είναι το LABάκι?</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Bold"
@@ -3582,7 +3583,7 @@
            transform="translate(-189.57883,513.67844)" />
         <g
            id="g5630"
-           transform="matrix(0.81303961,0,0,0.81303961,656.73122,-86.885133)">
+           transform="matrix(0.81303961,0,0,0.81303961,654.12884,-83.68062)">
           <g
              id="g4632"
              transform="translate(-295.42093,626.51533)">
@@ -3685,15 +3686,15 @@
       <text
          xml:space="preserve"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#af1515;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
-         x="242.01273"
+         x="276.62146"
          y="555.7514"
          id="text7995"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan7997"
-           x="242.01273"
+           x="276.62146"
            y="555.7514"
-           style="font-size:15.99999905px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#af1515;fill-opacity:1;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Semi-Bold">Τι κατασκευάζετε?</tspan></text>
+           style="font-size:15.99999905px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#af1515;fill-opacity:1;font-family:Advent Pro;-inkscape-font-specification:Advent Pro Semi-Bold">Τι κάνετε?</tspan></text>
       <flowRoot
          transform="translate(-3.7220924,553.07681)"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
@@ -4150,7 +4151,7 @@
       </g>
       <g
          id="g5323"
-         transform="translate(-3.2045134,9.1272243)">
+         transform="translate(-4.6779508,11.834832)">
         <rect
            y="613.83118"
            x="241.95129"
