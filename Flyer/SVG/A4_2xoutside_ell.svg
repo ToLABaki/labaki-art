@@ -217,11 +217,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67185989"
-     inkscape:cx="419.87664"
-     inkscape:cy="788.05626"
+     inkscape:zoom="1"
+     inkscape:cx="389.85345"
+     inkscape:cy="486.05626"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="4"
      fit-margin-left="4"
@@ -231,7 +231,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
-     inkscape:window-height="750"
+     inkscape:window-height="974"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="1">
@@ -268,11 +268,17 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Printable Area"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
        d="M 0,-0.01281738 0,1052.3622 l 744.09376,0 0,-1052.37501738 -744.09376,0 z m 14.1875,14.18750038 715.71876,0 0,1024.000017 -715.71876,0 0,-1024.000017 z"
        id="rect4130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.03839958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m -28.755603,525.66188 806.023473,0"
+       id="path3343"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -280,7 +286,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1.1956816e-4)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g5687"
        transform="translate(-560,-100.85714)">
@@ -516,7 +523,7 @@
                id="g4170">
               <polygon
                  style="fill:#b3b3b3;stroke:#414042;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-                 points="91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 "
+                 points="90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 "
                  id="polygon4661-5"
                  transform="matrix(1.0281496,0,0,0.99873615,-2.5809794,0.08135425)" />
               <line
@@ -1225,7 +1232,7 @@
                id="g4170-9">
               <polygon
                  style="fill:#b3b3b3;stroke:#414042;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
-                 points="79.611,13.352 78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 "
+                 points="78.014,13.352 76.523,15.578 94.432,15.578 92.816,13.352 91.338,13.352 90.146,11.582 88.631,11.582 87.395,10.302 83.641,10.302 82.32,11.582 80.85,11.582 79.611,13.352 "
                  id="polygon4661-5-7"
                  transform="matrix(1.0281496,0,0,0.99873615,-2.5809794,0.08135425)" />
               <line
